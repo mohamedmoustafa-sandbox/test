@@ -1,0 +1,3 @@
+function doTheThing() {
+  console.log();
+}
