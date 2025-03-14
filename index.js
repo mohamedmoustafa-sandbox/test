@@ -1,3 +1,0 @@
-function doTheThing() {
-  console.log();
-}
